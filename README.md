@@ -1,4 +1,4 @@
 # CMPSC122
 Submitted work from CMPSC122 taken Summer 2023
 
-This is only the work I wrote/edited, the assignment descriptions and any additional files given were left out. 
+This is my work with each problem statement attached. Many drivers/files had to be rewritten from how they were originally given in order to make them run as the instructor intended. 
